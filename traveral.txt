@@ -1,0 +1,13 @@
+For tree1:
+Inorder: D, B, G, E, H, A, C, F
+Preorder: A, B, D, E, G, H, C, F
+Postorder: D, G, H, E, B, F, C, A
+Level Order: A, B, C, D, E, F, G, H
+Complete tree
+
+For tree2:
+Inorder: H, D, B, E, A, F, C, G
+Preorder: A, B, D, H, E, C, F, G
+Postorder: H, D, E, B, F, G, C, A
+Level Order:A, B, C, D, E, F, G, H
+Full tree
